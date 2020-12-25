@@ -7,6 +7,7 @@ import App from './App' // this one is main entrance of Vue
 import router from './router' 
 // import VueRouter from 'vue-router'
 
+
 Vue.config.productionTip = false
 
 // 安裝vue-router插件
